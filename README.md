@@ -12,3 +12,5 @@ Para praticar o que aprendi até o momento, resolvi fazer esse mini projeto muit
 ## DÚVIDAS?
 
 ### ↓ Segue o video ↓
+
+[![Video Demo]]({./src/video/Demonstração do Projeto.mp4} "Tutorial em Vídeo")
